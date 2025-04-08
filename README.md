@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Late-Runner(Abhishek Pokhrel)
+- 👋 Hi, I’m Abhishek Pokhrel
 - 👀 I’m interested in learning Python and Linux (to become a devops)
 - 🌱 I’m currently learning PYTHON and DEVOPS Techniques to become more proficient
 - 💞️ I’m looking to collaborate on intern
